@@ -1,0 +1,22 @@
+{
+  "name": "kjhorsemanship",
+  "version": "1.0.0",
+  "description": "Hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmandel/kjhorsemanship.git"
+  },
+  "author": "",
+  "engines": {
+    "node": "10.5.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmandel/kjhorsemanship/issues"
+  },
+  "homepage": "https://github.com/nmandel/kjhorsemanship#readme"
+}
