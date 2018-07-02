@@ -2,9 +2,6 @@
   "name": "kjhorsemanship",
   "version": "1.0.0",
   "description": "Hello!",
-  "scripts": {
-    "start": "index.html"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nmandel/kjhorsemanship.git"
