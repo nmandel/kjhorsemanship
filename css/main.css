@@ -81,7 +81,11 @@ input, textarea, select {
   line-height: 1.85em;
   font-weight: 300; }
 
-ul, ol, p {
+p {
+  margin: 0 0 0 0;
+  line-height: 1.4em; }
+
+ul, ol {
   margin: 0 0 0 0; }
 
 dl {
@@ -747,6 +751,9 @@ section:last-child,
             padding-top: 40px; } }
 
 /* Multi-use */
+.kj-list li {
+  line-height: 1.4em; }
+
 .link-list li {
   padding: 0.2em 0 0.2em 0; }
   .link-list li:first-child {
@@ -916,8 +923,12 @@ section:last-child,
     padding: 40px 30px 45px 30px;
     box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
     margin: 0 0 25px 0; }
+  #content h1 {
+    font-size: 2em;
+    color: #373f42;
+    margin: 0 0 0.25em 0; }
   #content h2 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: #373f42;
     margin: 0 0 0.25em 0; }
   #content h3 {
