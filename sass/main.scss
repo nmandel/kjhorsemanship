@@ -53,7 +53,8 @@
 	}
 
 	ol, ul {
-		list-style: none;
+//		list-style: none;
+		padding: 0 0 0 1em;
 	}
 
 	blockquote,	q {
@@ -121,7 +122,11 @@
 		font-weight: 300;
 	}
 
-	ul, ol, p, dl {
+	ul, ol, p {
+		margin: 0 0 0 0;
+	}
+	
+	dl {
 		margin: 0 0 2em 0;
 	}
 

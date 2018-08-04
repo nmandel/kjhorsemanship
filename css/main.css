@@ -30,7 +30,7 @@ body {
   line-height: 1; }
 
 ol, ul {
-  list-style: none; }
+  padding: 0 0 0 1em; }
 
 blockquote, q {
   quotes: none; }
@@ -81,7 +81,10 @@ input, textarea, select {
   line-height: 1.85em;
   font-weight: 300; }
 
-ul, ol, p, dl {
+ul, ol, p {
+  margin: 0 0 0 0; }
+
+dl {
   margin: 0 0 2em 0; }
 
 a {
